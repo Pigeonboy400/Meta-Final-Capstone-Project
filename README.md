@@ -1,7 +1,6 @@
 # Little Lemon - Booking Table
 
-This was the final project in my META's Front-End Developer Professional Certificate. The only link and function that works is the table booking button in the header. Styling is based on a style guide.
-
+Very Proud to say trhat this was the last project for this long course and I'm happy to say this was such a learning experience!
 ## Table of contents
 
 - [Overview](#overview)
